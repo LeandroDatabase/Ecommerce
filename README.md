@@ -19,13 +19,13 @@ Na análise financeira foram analisadas as seguintes variáveis: número de clie
 
 A quantidade de clientes é 99 mil com uma receita bruta de R$ 15,84 milhões em 99 mil pedidos entre os anos de 2016 a 2018. O ticket médio por pedido é R$ 160,58. O método de pagamento mais usado é o cartão de crédito e a categoria com maior faturamento é de produtos de beleza e saúde. O maior faturamento mensal em 2017 é em novembro e o estado com maior faturamento é São Paulo com ticket médio de R$ 145,77. A variação percentual mensal de 2017 mostra que os meses de abril, junho  e dezembro tem diminuição na receita.
 
-![](dashboard1.PNG)
+![](Dashboard1.jpg)
 
 Na análise logística de pedidos foram analisadas as seguintes variáveis: a porcentagem de pedidos entregues dentro do prazo e de pedidos cancelados e o tempo médio de entrega. Qual é a situação dos pedidos. Quantos pedidos foram entregues no prazo e quantos fora do prazo, a quantidade de pedidos analisados por mês, qual é o número de pedidos em relação ao estado. Com estas análises é possível ver como está a parte de entrega do e-commerce.
 
 Analisando os pedidos 92,85% das compras são entregues no prazo, o tempo médio de entrega é de 12 dias, e a taxa de pedidos cancelados é de 0,63%. Analisando no decorrer dos anos nota-se que a porcentagem de pedidos entregues no prazo está diminuindo. Em 2016 foi de 98,78%, em 2017 de 93,62% e em 2018 de 90,84%. Na situação de pedido temos que 96,478 mil pedidos já foram entregues, 1106 pedidos estão em percurso e 461 foram cancelados. E o estado que mais tem pedido é São Paulo.
 
-![](dashboard2.PNG)
+![](Dashboard2.jpg)
 
 ## Conclusão
 
